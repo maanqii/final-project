@@ -1,6 +1,6 @@
 # final-project
 
-视频：https://youtu.be/KTuuhIAHjfM
+vedio：https://youtu.be/KTuuhIAHjfM
 
 MIMIC：https://mimicproject.com/code/fcdbfb2a-6f2a-5063-af06-76a3ca98349f
 
